@@ -19,6 +19,10 @@ A web application built with React.js to track the latest prices, trends, and ma
 - **CSS Modules / Styled-Components**: For styling the application.
 - **React Router**: For handling navigation between different pages and components.
 
+
+
+##DEMO LINK - https://crypto-currency-tracker-dccwkgqqk-raazikkhans-projects.vercel.app/
+
 ## Getting Started
 
 Follow these instructions to set up and run the project locally.
